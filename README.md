@@ -41,6 +41,7 @@ BackgroundSubtractor类的另一个基本特征是它可以计算阴影。这对
 ![输入图片说明](https://git.oschina.net/uploads/images/2017/0824/082414_be0bb08a_1487586.png "20170704103159798.png")
 
 **- Face_capture.py**
+
 【Python+OpenCV】实现检测场景内是否有物体移动，并进行人脸检测抓拍
 ![输入图片说明](http://img.blog.csdn.net/20170608200539380?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbHdwbHdm/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
