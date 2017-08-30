@@ -43,6 +43,8 @@ BackgroundSubtractor类的另一个基本特征是它可以计算阴影。这对
 **- Face_capture.py**
 
 【Python+OpenCV】实现检测场景内是否有物体移动，并进行人脸检测抓拍
+
+这个还是看到一个帖子里的，特好玩，他在卫生间做了这个，去上大号的时候就自动播放音乐，后来朋友说他，他就加上了人脸识别，朋友来他家进去上厕所的时候就会播放张震讲鬼故事，哈哈哈哈哈。
 ![输入图片说明](http://img.blog.csdn.net/20170608200539380?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbHdwbHdm/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 
